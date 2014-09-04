@@ -1,9 +1,13 @@
-.index {
-    text-align: center;
-    <body class="index">
-    <h1 style="font-family:verdana;"></h1>
-    <p style="font-family:arial;color:red;font-size:20px";</p>
+h1 {font-family:verdana;
+}
+p {font-family:arial;
+	color:red;
+	font-size:20px;
 	
+}
+body{
+	background-image: url(https://s3.amazonaws.com/ooomf-com-files/Ss2c5MVASdGkVHOwG6n9_Imogene%20Pass.jpg);
+    background-size= 80px 60px
 }
 
 
