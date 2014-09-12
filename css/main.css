@@ -14,13 +14,17 @@ body{
 	border: 2px solid #a1a1a1;
     padding: 10px 40px; 
     background: #dddddd;
-    width: 300px;
+    width: 500px;
     border-radius: 25px;
+    text-align:center;
+    margin-left:50px;
+    margin-top:300px;
 }
 
 .icons{
 	width: 40px;
 	height: 30px;
+	margin-left:9%;
 }
 .images{
 	width:340px;
