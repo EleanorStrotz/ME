@@ -34,5 +34,19 @@ body{
 	margin-left: 20%;
 }
 @media screen and (max-width:959px) {
-	
+    .about-me{
+    	width:100%;
+    }	
+    body{
+    	width:100%;
+    }
+    .icons{
+    	width:100%;
+    }
+    .images{
+    	width:100%;
+    }
+    #audio{
+    	width:100%
+    }
 } 
