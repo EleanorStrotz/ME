@@ -33,7 +33,7 @@ body{
 #audio{
 	margin-left: 20%;
 }
-@media screen and (max-width:959px) {
+@media screen and (max-width:320px) {
     .about-me{
     	width:70%;
     }	
